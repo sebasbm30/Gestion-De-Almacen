@@ -1,7 +1,3 @@
-public class Categoria {
-
-    public enum categoria{
-        telefonos,ordenadores,tabets
-    }
-
+public enum Categoria {
+        TELEFONOS,ORDENADORES,TABLETS
 }
